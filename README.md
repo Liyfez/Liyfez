@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 📚 Learning  
+📚 Learning  
 Currently exploring mobile app development and improving my overall engineering skills.
 
 😂 Did You Know?  
