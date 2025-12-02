@@ -1,5 +1,21 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 📚 Learning  
+Currently exploring mobile app development and improving my overall engineering skills.
+
+😂 Did You Know?  
+Nikola Tesla created a wireless remote-controlled boat in 1898 — one of the earliest demonstrations of radio control technology.
+
+🎯 Interests  
+LLMs, System Design, and creating smooth, minimalistic UI/UX experiences.
+
+🌍 Languages  
+- Kazakh — Native  
+- English — B2/B3  
+- Español — Poco  
+- Türkçe — Küçük  
+
+⭐ Favorite Anime  
+GTO (Great Teacher Onizuka)
 
 
 ## 🌐 Socials:
