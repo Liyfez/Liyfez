@@ -2,7 +2,7 @@
 📚 Learning  
 Currently exploring mobile app development and improving my overall engineering skills.
 
-😂 Did You Know?  
+💡 Did You Know?  
 Nikola Tesla created a wireless remote-controlled boat in 1898 — one of the earliest demonstrations of radio control technology.
 
 🎯 Interests  
