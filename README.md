@@ -26,7 +26,33 @@
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/v1xite) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@v1xite) [![Anilist](https://img.shields.io/badge/Anilist-204169?logo=anilist&logoColor=white)](https://anilist.co/user/v1xite/)
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; max-width: 400px; margin: 20px auto;">
+
+  <div style="text-align: center;">
+    <a href="YOUR_INSTAGRAM_LINK_HERE" target="_blank">
+      <img src="images/v1xite-instagram.png" alt="Instagram" width="100%" style="border-radius: 8px;">
+    </a>
+  </div>
+
+  <div style="text-align: center;">
+    <a href="YOUR_ANILIST_LINK_HERE" target="_blank">
+      <img src="images/v1xite-anilist.png" alt="AniList" width="100%" style="border-radius: 8px;">
+    </a>
+  </div>
+
+  <div style="text-align: center;">
+    <a href="YOUR_TIKTOK_LINK_HERE" target="_blank">
+      <img src="images/v1xite-tiktok.png" alt="TikTok" width="100%" style="border-radius: 8px;">
+    </a>
+  </div>
+
+  <div style="text-align: center;">
+    <a href="YOUR_PINTEREST_LINK_HERE" target="_blank">
+      <img src="images/v1xite-pinterest.png" alt="Pinterest" width="100%" style="border-radius: 8px;">
+    </a>
+  </div>
+
+</div>
 
 ---
 
