@@ -28,15 +28,13 @@
 <div align="left">
   <a href="https://www.instagram.com/v1xite" target="_blank">
     <img src="images/v1xite-instagram.png" alt="Instagram" width="180" />
-  </a>
-  &nbsp; <a href="https://anilist.co/user/v1xite" target="_blank">
+  </a><a href="https://anilist.co/user/v1xite" target="_blank">
     <img src="images/v1xite-anilist.png" alt="AniList" width="180" />
   </a>
 
   <br /> <a href="https://www.tiktok.com/@v1xite" target="_blank">
     <img src="images/v1xite-tiktok.png" alt="TikTok" width="180" />
-  </a>
-  &nbsp; <a href="https://www.pinterest.com/v1xite" target="_blank">
+  </a><a href="https://www.pinterest.com/v1xite" target="_blank">
     <img src="images/v1xite-pinterest.png" alt="Pinterest" width="180" />
   </a>
 </div>
