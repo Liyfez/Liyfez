@@ -29,25 +29,25 @@
 <div style="display: grid; grid-template-columns: 2fr 2fr; gap: 10px; max-width: 400px; margin: 20px auto;">
 
   <div style="text-align: center;">
-    <a href="YOUR_INSTAGRAM_LINK_HERE" target="_blank">
+    <a href="https://www.instagram.com/v1xite" target="_blank">
       <img src="images/v1xite-instagram.png" alt="Instagram" width="20%" style="border-radius: 8px;">
     </a>
   </div>
 
   <div style="text-align: center;">
-    <a href="YOUR_ANILIST_LINK_HERE" target="_blank">
+    <a href="https://anilist.co/user/v1xite" target="_blank">
       <img src="images/v1xite-anilist.png" alt="AniList" width="20%" style="border-radius: 8px;">
     </a>
   </div>
 
   <div style="text-align: center;">
-    <a href="YOUR_TIKTOK_LINK_HERE" target="_blank">
+    <a href="https://www.tiktok.com/@v1xite" target="_blank">
       <img src="images/v1xite-tiktok.png" alt="TikTok" width="20%" style="border-radius: 8px;">
     </a>
   </div>
 
   <div style="text-align: center;">
-    <a href="YOUR_PINTEREST_LINK_HERE" target="_blank">
+    <a href="https://www.pinterest.com/v1xite" target="_blank">
       <img src="images/v1xite-pinterest.png" alt="Pinterest" width="20%" style="border-radius: 8px;">
     </a>
   </div>
