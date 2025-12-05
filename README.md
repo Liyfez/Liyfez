@@ -14,7 +14,8 @@
 
 * **🎯 Interests** LLMs, System Design, and creating smooth, minimalistic UI/UX experiences.
 
-* **🌍 Languages** * Kazakh — Native 
+* **🌍 Languages**
+*   * Kazakh — Native 
     * English — B2/B3 
     * Español — Poco 
     * Türkçe — Küçük 
