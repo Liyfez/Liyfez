@@ -26,7 +26,7 @@
 
 ## 🌐 Socials:
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; max-width: 400px; margin: 20px auto;">
+<div style="display: grid; grid-template-columns: 2fr 2fr; gap: 10px; max-width: 400px; margin: 20px auto;">
 
   <div style="text-align: center;">
     <a href="YOUR_INSTAGRAM_LINK_HERE" target="_blank">
