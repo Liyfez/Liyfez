@@ -33,7 +33,6 @@
   &nbsp; <a href="https://anilist.co/user/v1xite" target="_blank">
     <img src="images/v1xite-anilist.png" alt="AniList" width="180" />
   </a>
-
   <br /> <a href="https://www.tiktok.com/@v1xite" target="_blank">
     <img src="images/v1xite-tiktok.png" alt="TikTok" width="180" />
   </a>
