@@ -24,8 +24,6 @@
 
 ---
 
-## 🌐 Socials:
-
 <h3 id="socials">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-GitHub-Profile/main/gifs/globe.gif" alt="Globe Icon" width="20px" style="vertical-align: middle;">
   Socials:
