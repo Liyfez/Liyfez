@@ -40,6 +40,12 @@
 
 ---
 
+### Random IT Facts
+
+## 🧠 Daily IT Fact
+
+<img src="random-facts-generator-bc7ez45ek-vfxites-projects.vercel.app" alt="A random IT fact that updates automatically" />
+
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
