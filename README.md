@@ -42,11 +42,7 @@
 
 ### 🔹 Random Facts
 
-![Random Fact](https://random-facts-generator-two.vercel.app/api/fact?t=1&cacheBuster=123456)
-
-![Random Fact](https://random-facts-generator-two.vercel.app/api/fact?t=1) 
-
-![Random Fact](https://random-facts-generator-two.vercel.app/api/fact?t=123)
+![Random Fact](https://random-facts-generator-two.vercel.app/api/fact)
 
 
 .......
