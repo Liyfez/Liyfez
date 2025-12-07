@@ -40,7 +40,7 @@
 
 ---
 
-### 🔹 Random Facts
+### 🌊 Random IT Facts
 
 ![Random Fact](https://random-facts-generator-two.vercel.app/api/fact)
 
