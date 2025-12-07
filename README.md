@@ -45,11 +45,6 @@
 ![Random Fact](https://random-facts-generator-two.vercel.app/api/fact)
 
 
-.......
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=v1xite&limit=5&theme=dark&combine_all_yearly_contributions=true)
