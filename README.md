@@ -44,7 +44,8 @@
 `GET` random fact as SVG:
 
 **Live API:**  
-https://random-facts-generator-two.vercel.app/api/fact
+### 🔹 Random Fact
+![Random Fact](https://random-facts-generator-two.vercel.app/api/fact?r=1)
 
 
 
