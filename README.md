@@ -40,11 +40,8 @@
 
 ---
 
-### 🔹 Random Facts Generator API
-`GET` random fact as SVG:
+### 🔹 Random Facts
 
-**Live API:**  
-### 🔹 Random Fact
 ![Random Fact](https://random-facts-generator-two.vercel.app/api/fact?t=1)
 
 
