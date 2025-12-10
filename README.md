@@ -42,9 +42,4 @@
 
 ### 🌊 Random IT Facts
 
- ![Random Fact](https://random-facts-generator-two.vercel.app/api/fact?theme=dark_blue)
- 
-<div align="center">
-  <img src="https://random-facts-generator-two.vercel.app/api/fact?theme=dark_blue" />
-</div>
-
+![Random Fact](https://random-facts-generator-two.vercel.app/api/fact?theme=dark_blue)
