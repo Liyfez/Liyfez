@@ -25,7 +25,7 @@
 ---
 
 ## 🌐 Socials:
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/v1xite" target="_blank">
     <img src="images/v1xite-instagram.png" alt="Instagram" width="180" />
   </a><a href="https://anilist.co/user/v1xite" target="_blank">
