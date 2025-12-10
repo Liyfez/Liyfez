@@ -40,6 +40,10 @@
 
 ---
 
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
 ### 🌊 Random IT Facts
 
 ![Random Fact](https://random-facts-generator-two.vercel.app/api/fact?theme=dark_blue)
