@@ -42,4 +42,4 @@
 
 ### 🌊 Random IT Facts
 
-![Random Fact](https://random-facts-generator-two.vercel.app/api/fact?theme=ocean)
+![Random Fact](https://random-facts-generator-two.vercel.app/api/fact)
