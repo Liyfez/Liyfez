@@ -25,7 +25,7 @@
 ---
 
 ## 🌐 Socials:
-<div align="center">
+<div align="left">
   <a href="https://www.instagram.com/v1xite" target="_blank">
     <img src="images/v1xite-instagram.png" alt="Instagram" width="180" />
   </a><a href="https://anilist.co/user/v1xite" target="_blank">
@@ -42,4 +42,6 @@
 
 ### 🌊 Random IT Facts
 
-![Random Fact](https://random-facts-generator-two.vercel.app/api/fact?theme=dark_blue)
+<div align="center">
+  ![Random Fact](https://random-facts-generator-two.vercel.app/api/fact?theme=dark_blue)
+</div>
