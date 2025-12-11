@@ -43,4 +43,4 @@
 
 ### 🌊 Random IT Facts
 
-![Random Fact](https://random-facts-generator-two.vercel.app/api/fact?theme=dark_green)
+![Random Fact](https://random-facts-generator-two.vercel.app/api/fact?theme=dark_blue)
