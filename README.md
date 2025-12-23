@@ -29,15 +29,15 @@
     <td>
       <br>
       <p><strong>📚 Learning</strong><br>Currently exploring mobile app development and improving my overall engineering skills.</p>
-      <p><strong>💡 Did You Know?</strong><br>Nikola Tesla created a wireless remote-controlled boat in 1898.</p>
-      <p><strong>🎯 Interests</strong><br>LLMs, System Design, and creating smooth, minimalistic UI/UX experiences.</p>
+      <p><strong>💡 Did You Know?</strong>Nikola Tesla created a wireless remote-controlled boat in 1898.</p>
+      <p><strong>🎯 Interests</strong>LLMs, System Design, and creating smooth, minimalistic UI/UX experiences.</p>
       <p><strong>🌍 Languages</strong><br>
          • Kazakh — Native<br>
          • English — B2/B3<br>
          • Español — Poco<br>
          • Türkçe — Küçük
       </p>
-      <p><strong>⭐ Favorite Anime</strong><br>GTO (Great Teacher Onizuka)</p>
+      <p><strong>⭐ Favorite Anime</strong>GTO (Great Teacher Onizuka)</p>
       <br>
     </td>
     <td align="center" valign="middle" width="200">
