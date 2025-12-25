@@ -21,7 +21,7 @@
          • Español — Poco<br>
          • Türkçe — Küçük
       </p>
-      <p><strong>⭐ Favorite Animes</strong> </p>
+      <p><strong>⭐ Favorite Anime: Golden boy</strong> </p>
       <br>
     </td>
     <td align="center" valign="middle" width="200">
@@ -31,12 +31,6 @@
 </table>
 
 ---
-
-
-<p>
-  <strong>⭐ Favorite Anime <strong> Golden boy </strong>
-  <img src="gifs/Liyfez-fav-ani.gif" height="30" alt="Anime GIF"/>
-</p>
 
 
 ## 🌐 Socials:
