@@ -6,48 +6,8 @@
 
 ---
 
-# 💫 About Me:
-
-<table>
-  <tr>
-    <td>
-      <br>
-      <p><strong>📚 Learning</strong> Currently exploring mobile app development and improving my overall engineering skills.</p>
-      <p><strong>💡 Did You Know?</strong> Nikola Tesla created a wireless remote-controlled boat in 1898.</p>
-      <p><strong>🎯 Interests</strong> LLMs, System Design, and creating smooth, minimalistic UI/UX experiences.</p>
-      <p><strong>🌍 Languages</strong><br>
-         • Kazakh — Native<br>
-         • English — B2/B3<br>
-         • Español — Poco<br>
-         • Türkçe — Küçük
-      </p>
-      <p><strong>⭐ Favorite Anime: Golden boy</strong> </p>
-      <br>
-    </td>
-    <td align="center" valign="middle" width="200">
-      <img src="gifs/pix-bat.gif" width="150" />
-    </td>
-  </tr>
-</table>
-
 ---
 
-
-## 🌐 Socials:
-<div align="left">
-  <a href="https://www.instagram.com/v1xite" target="_blank">
-    <img src="images/v1xite-instagram.png" alt="Instagram" width="180" />
-  </a><a href="https://anilist.co/user/v1xite" target="_blank">
-    <img src="images/v1xite-anilist.png" alt="AniList" width="180" />
-  </a> <br />
- <a href="https://www.tiktok.com/@v1xite" target="_blank">
-    <img src="images/v1xite-tiktok.png" alt="TikTok" width="180" />
-  </a><a href="https://www.pinterest.com/v1xite" target="_blank">
-    <img src="images/v1xite-pinterest.png" alt="Pinterest" width="180" />
-  </a>
-</div>
-
----
 
 
 ### 🌊 Random IT Facts
