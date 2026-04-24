@@ -16,7 +16,7 @@ Hello! I'm a developer and prompt engineer cultivating beautiful, high-quality d
 * **Backend & ML:** Rooted deeply in Python and machine learning to build intelligent prediction engines.
 
 ### 🐝 Cross-Pollination
-I am currently nurturing Novation, a company dedicated to building apps that improve lives. I love mixing minimalist aesthetics with high-performance logic to create something truly vibrant.
+I am currently nurturing ******, a company dedicated to building apps that improve lives. I love mixing minimalist aesthetics with high-performance logic to create something truly vibrant.
 
 *Always planting new ideas.* 🍃
 
