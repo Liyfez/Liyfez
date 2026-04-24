@@ -6,13 +6,13 @@
 
 ---
 
-# 🌱 Welcome to My Digital Garden
+<h2 align="center">🎋 Nurturing Robust Digital Ecosystems </h2>
 
 Hello! I'm a developer and prompt engineer cultivating beautiful, high-quality digital experiences. I treat my code like a well-tended garden—pruning bugs, planting new features, and watching ideas blossom into full-scale applications.
 
 ### 🌻 What's Growing Here?
 * **Mobile & Web Development:** Grafting powerful apps using React Native and Expo, styled organically with Tailwind CSS and Nativewind.
-* **Prompt Engineering:** Utilizing AI (Codex, Antigravity) as sunlight and water to accelerate development and solve complex problems.
+* **Prompt Engineering:** Utilizing AI (Cursor, Codex, Antigravity) as sunlight and water to accelerate development and solve complex problems.
 * **Backend & ML:** Rooted deeply in Python and machine learning to build intelligent prediction engines.
 
 ### 🐝 Cross-Pollination
