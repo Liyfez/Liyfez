@@ -27,3 +27,15 @@ I am currently nurturing ******, a company dedicated to building apps that impro
 ### 🌊 Random IT Facts
 
 ![Random Fact](https://random-facts-generator-two.vercel.app/api/fact?theme=dark_blue)
+
+![Random Fact](https://random-facts-generator-two.vercel.app/api/fact?theme=dark_red)
+
+![Random Fact](https://random-facts-generator-two.vercel.app/api/fact?theme=dark_yellow)
+
+![Random Fact](https://random-facts-generator-two.vercel.app/api/fact?theme=crimson_core)
+
+![Random Fact](https://random-facts-generator-two.vercel.app/api/fact?theme=amethyst)
+
+![Random Fact](https://random-facts-generator-two.vercel.app/api/fact?theme=dawnlight)
+
+![Random Fact](https://random-facts-generator-two.vercel.app/api/fact?theme=neo_pink)
