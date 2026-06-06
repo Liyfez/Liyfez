@@ -1,6 +1,4 @@
-<h1 align="center">
-  Hey I'm Liyfez <img src="gifs/gif.gif" height="50" style="vertical-align: middle;" alt="Animated GIF" />
-</h1>
+<h1 align="center">Hey I'm Liyfez </h1>
 
 <div align="center">
   <img src="gifs/nature-ani-night.gif" width="670px" > 
@@ -13,9 +11,9 @@
 Developer and Prompt Architect. 
 Bridging the gap between heavy machine intelligence and lightweight human interaction.
 
-* **The Canvas:** React Native, Expo, Tailwind CSS.
+* **The Canvas:** React Native, Expo, React, Tailwind CSS. TypeScript. 
 * **The Engine:** Python, Machine Learning, Applied LLMs.
-* **The Focus:** ******
+* **The Focus:** Automation & Learning.
 
 *Less noise. Higher signal.*
 
