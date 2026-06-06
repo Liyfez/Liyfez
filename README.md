@@ -15,8 +15,6 @@ Bridging the gap between heavy machine intelligence and lightweight human intera
 * **The Engine:** Python, Machine Learning, Applied LLMs.
 * **The Focus:** Automation & Learning.
 
-*Less noise. Higher signal.*
-
 ---
 
 
