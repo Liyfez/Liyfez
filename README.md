@@ -1,4 +1,6 @@
-<h1 align="center">Hey I'm Liyfez </h1>
+<h1 align="center">
+  Hey I'm Liyfez <img src="gifs/gif.gif" height="50" style="vertical-align: middle;" alt="Animated GIF" />
+</h1>
 
 <div align="center">
   <img src="gifs/nature-ani-night.gif" width="670px" > 
@@ -6,19 +8,16 @@
 
 ---
 
-<h2 align="center">🎋 Nurturing Robust Digital Ecosystems </h2>
+<h2 align="center">Systems & Synthesis</h2>
 
-Hello! I'm a developer and prompt engineer cultivating beautiful, high-quality digital experiences. I treat my code like a well-tended garden—pruning bugs, planting new features, and watching ideas blossom into full-scale applications.
+Developer and Prompt Architect. 
+Bridging the gap between heavy machine intelligence and lightweight human interaction.
 
-### 🌻 What's Growing Here?
-* **Mobile & Web Development:** Grafting powerful apps using React Native and Expo, styled organically with Tailwind CSS and Nativewind.
-* **Prompt Engineering:** Utilizing AI (Cursor, Codex, Antigravity) as sunlight and water to accelerate development and solve complex problems.
-* **Backend & ML:** Rooted deeply in Python and machine learning to build intelligent prediction engines.
+* **The Canvas:** React Native, Expo, Tailwind CSS.
+* **The Engine:** Python, Machine Learning, Applied LLMs.
+* **The Focus:** ******
 
-### 🐝 Cross-Pollination
-I am currently nurturing ******, a company dedicated to building apps that improve lives. I love mixing minimalist aesthetics with high-performance logic to create something truly vibrant.
-
-*Always planting new ideas.* 🍃
+*Less noise. Higher signal.*
 
 ---
 
