@@ -8,7 +8,7 @@
 
 ### 📈 Market Watch
 <picture>
-  <img src="https://pos-sol.vercel.app/api/chart?symbol=NVDAL&period=1y" alt="NVDA 1-Year Chart">
+  <img src="https://pos-sol.vercel.app/api/chart?symbol=NVDAL&period=1year" alt="NVDA 1-Year Chart">
 </picture>
 
 
