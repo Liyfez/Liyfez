@@ -6,6 +6,12 @@
 
 ---
 
+### 📈 Market Watch
+<picture>
+  <img src="https://pos-sol.vercel.app/api/chart?symbol=KSPI&period=6m" alt="Kaspi.kz 6-Month Chart">
+</picture>
+
+
 <h2 align="center">Systems & Synthesis</h2>
 
 ### 🌊 Random IT Facts
