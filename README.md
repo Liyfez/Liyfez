@@ -8,7 +8,7 @@
 
 ### 📈 Market Watch
 <picture>
-  <img src="https://pos-sol.vercel.app/api/chart?symbol=KSPI&period=6m" alt="Kaspi.kz 6-Month Chart">
+  <img src="https://pos-sol.vercel.app/api/chart?symbol=AAPL&period=6m" alt="APPL 6-Month Chart">
 </picture>
 
 
