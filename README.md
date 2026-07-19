@@ -8,10 +8,11 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Liyfez/PosSol/main/assets/logo.svg" width="24" style="vertical-align: middle;" /> PosSol Stock View
-<picture>
-  <img src="https://pos-sol.vercel.app/api/chart?symbol=NVDA&period=1y" alt="NVDA 1-Year Chart">
-</picture>
+### <img src="https://raw.githubusercontent.com/Liyfez/PosSol/main/assets/logo.svg" width="32" style="vertical-align: middle; padding-bottom: 4px;" /> PosSol Stock View
+
+<p align="center">
+  <img src="https://pos-sol.vercel.app/api/chart?symbol=AAPL&period=1y&v=1&theme=sakura" width="100%">
+</p>
 
 
 <h2 align="center">Systems & Synthesis</h2>
