@@ -17,6 +17,6 @@
 
 <h2 align="center">Systems & Synthesis</h2>
 
-### 🌊 Random IT Facts
+### Random IT Facts
 
 ![Random Fact](https://random-facts-generator-two.vercel.app/api/fact?theme=dark_red)
