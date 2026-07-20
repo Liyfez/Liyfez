@@ -11,7 +11,7 @@
 ### <img src="https://raw.githubusercontent.com/Liyfez/PosSol/main/assets/logo.svg" width="32" style="vertical-align: middle; padding-bottom: 4px;" /> PosSol Stock View
 
 <p align="center">
-  <img src="https://pos-sol.vercel.app/api/chart?symbol=S&P500period=30d&v=1&theme=sakura" width="100%">
+  <img src="https://pos-sol.vercel.app/api/chart?symbol=VOOperiod=30d&v=1&theme=sakura" width="100%">
 </p>
 
 
