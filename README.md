@@ -11,8 +11,6 @@
 
 </div>
 
-
-
-<div align="center">
+<!-- <div align="center">
   <img src="gifs/nature-ani-night.gif" width="670px" > 
 </div>
