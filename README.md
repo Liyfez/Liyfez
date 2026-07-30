@@ -4,7 +4,7 @@
     💻 Software Development • ML Engineer
     📖 Natural Language Programming • Distributed systems
     👾 Anime • Project • Art • Music • Code
-    ⛩️JoJo • HxH • GTO • InitialD • Spy X Family • Ghibli
+    ⛩️JoJo • HxH • GTO • Initial-D • Spy X Family • Ghibli
   </pre>
 
 <!--  <img src="gifs/kirby.gif" height="120" />
