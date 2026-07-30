@@ -7,9 +7,9 @@
     ⛩️JoJo • HxH • GTO • InitialD • Spy X Family • Ghibli
   </pre>
 
-  <img src="gifs/kirby.gif" height="120" />
+<!--  <img src="gifs/kirby.gif" height="120" />
 
-</div>
+</div> 
 
 <!-- <div align="center">
   <img src="gifs/nature-ani-night.gif" width="670px" > 
