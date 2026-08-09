@@ -1,13 +1,13 @@
 <div align="center">
-  <pre>
+<!--  <pre>
     📌 Fron-end dev • Back-end dev • 10x-Stack
     💻 Software Development • ML Engineer
     📖 Natural Language Programming • Distributed systems
     👾 Anime • Project • Art • Music • Code
     ⛩️JoJo • HxH • GTO • Initial-D • Umamusume • Ghibli • Spy X Family
-  </pre>
+  </pre>  -->
 
-<!--  <img src="gifs/kirby.gif" height="120" />
+<img src="gifs/Liyfez-git.png" height="400" />
 
 </div> 
 
