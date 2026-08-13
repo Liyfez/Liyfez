@@ -17,6 +17,8 @@
   </table>
 </div>
 
+![My Custom Activity Graph](https://raw.githubusercontent.com/Liyfez/Pastime/main/activity-graph.svg)
+
 
 </div> 
 
