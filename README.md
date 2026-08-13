@@ -17,7 +17,11 @@
   </table>
 </div>
 
-![My Custom Activity Graph](https://raw.githubusercontent.com/Liyfez/Pastime/main/activity-graph.svg)
+env:
+  GITHUB_TOKEN: ${{ secrets.GH_TOKEN_FOR_GRAPH }}
+  GITHUB_USERNAME: ${{ github.repository_owner }}
+  LIGHT_THEME: '#ebedf0,#f9a09f,#f55956,#f1120e,#a90c0a'
+  DARK_THEME: '#161b22,#600706,#a90c0a,#f1120e,#f55956'
 
 
 </div> 
