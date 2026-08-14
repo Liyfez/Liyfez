@@ -12,7 +12,7 @@
   <table>
     <tr>
       <td><img src="gifs/Liyfez-git.png" height="300"></td>
-      <td><img src="gifs/book.png" height="350"></td>         
+      <td><img src="gifs/book-a.png" height="350"></td>         
     </tr>
   </table>
 </div>
