@@ -13,7 +13,7 @@
         </pre>
       </td>
       <td style="vertical-align: middle; text-align: right; padding: 10px; width: 40%;">
-        <img src="gifs/book-a.png" height="350" alt="Book illustration" style="max-width: 100%; height: auto;">
+        <img src="gifs/banner.png" height="350" alt="Book illustration" style="max-width: 100%; height: auto;">
       </td>
     </tr>
   </table>
