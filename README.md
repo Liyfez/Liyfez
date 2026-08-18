@@ -21,7 +21,8 @@
 
 ![My Custom Activity Graph](https://raw.githubusercontent.com/Liyfez/Pastime/main/activity-graph.svg)
  
-[![l1e's AniList Stats](https://seiun-sky.vercel.app/api/card?user=l1e&type=showcase)](https://anilist.co/user/l1e)
+
+[![l1e's AniList Stats](https://seiun-sky.vercel.app/api/card?user=l1e&type=showcase&v=5)](https://anilist.co/user/l1e)
 
 <!-- <div align="center">
   <img src="gifs/nature-ani-night.gif" width="670px" > 
